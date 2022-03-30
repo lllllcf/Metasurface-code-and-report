@@ -21,7 +21,8 @@ Contain all the code, report and results for 2021 IPP metasurface program. Unfor
 
 ### Structure
 
-![q1d44vv1yra5](F:\SJTU JI\科研\2021-IPP\IPP-git\TMPM\TMPM\报告\6_15_report\q1d44vv1yra5.png)![zxrwf6vgav66](F:\SJTU JI\科研\2021-IPP\IPP-git\TMPM\TMPM\报告\6_15_report\zxrwf6vgav66.png)
+![q1d44vv1yra5](./报告/6_15_report/q1d44vv1yra5.png)
+![zxrwf6vgav66](./报告/6_15_report/zxrwf6vgav66.png)
 
 
 
@@ -29,24 +30,22 @@ Contain all the code, report and results for 2021 IPP metasurface program. Unfor
 
 ### Coupling
 
-![hujndf7fjrji](F:\SJTU JI\科研\2021-IPP\IPP-git\TMPM\TMPM\报告\6_22_coupling_2D\hujndf7fjrji.png)
+![hujndf7fjrji](./报告/6_22_coupling_2D/hujndf7fjrji.png)
 
-![hz8mb8jfwdf1](F:\SJTU JI\科研\2021-IPP\IPP-git\TMPM\TMPM\报告\6_22_coupling_2D\hz8mb8jfwdf1.png)
+![hz8mb8jfwdf1](./报告/6_22_coupling_2D/hz8mb8jfwdf1.png)
 
 
 
 ### Signal Reconstruct
 
-![002](F:\SJTU JI\科研\2021-IPP\IPP-git\TMPM\TMPM\报告\TMM_figure\002.png)
+![002](./报告/TMM_figure/002.png)
 
 
 
 ### Beam forming
 
-![bf2](F:\SJTU JI\科研\2021-IPP\IPP-git\TMPM\TMPM\Simulation results\bf2.jpg)![bf](F:\SJTU JI\科研\2021-IPP\IPP-git\TMPM\TMPM\Simulation results\bf.jpg)
+![bf2](./Simulation results/bf2.jpg)
+![bf](./Simulation results/bf.jpg)
 
 ### TMPM
-
-
-
-![a](F:\SJTU JI\科研\2021-IPP\IPP-git\TMPM\TMPM\报告\a.png)
+![a](./报告/a.png)
