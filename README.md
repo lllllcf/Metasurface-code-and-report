@@ -44,8 +44,8 @@ Contain all the code, report and results for 2021 IPP metasurface program. Unfor
 
 ### Beam forming
 
-![bf2](./Simulation results/bf2.jpg)
-![bf](./Simulation results/bf.jpg)
+![bf2](./Simulation_results/bf2.jpg)
+![bf](./Simulation_results/bf.jpg)
 
 ### TMPM
 ![a](./报告/a.png)
